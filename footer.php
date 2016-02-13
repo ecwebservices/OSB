@@ -1,3 +1,4 @@
-<script src="./livesite/md/strapdown.css"></script>
+</xmp>
+<script src="./livesite/md/strapdown.js"></script>
 </body>
 </html>
