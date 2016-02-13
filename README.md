@@ -11,3 +11,6 @@ Working on:
 - Genesis
     - [x] 1
     - [ ] 2
+
+
+Also working on site. If you think you can contribute please let us know. Also, check out the site at: https://open-source-bible.herokuapp.com/ for seeing this repository in action.
